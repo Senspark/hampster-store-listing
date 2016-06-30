@@ -44,13 +44,8 @@
 		* *title.txt*: Title of the game.
 	
 
-### II. Updating screenschots
 
-### III. Updating application icon
-
-### IV. Updating application apk
-
-### IV. Deploying changes
+### II. Deploying changes
 1. Using `Terminal`, change current directory to `src/gplay` folder.
 2. Run `python run_populate.py` to populate metadata.
 3. Run `python run_supply.py` to submit your metadata changes.
